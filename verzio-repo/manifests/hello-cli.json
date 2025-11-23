@@ -3,6 +3,6 @@
   "version": "1.0.0",
   "description": "Petit binaire qui affiche un message de test.",
   "url": "https://elvis-ohin.github.io/verzio-repo/releases/hello-cli-1.0.0.zip",
-  "sha256": "f853f06e7df694a548f11f04824d1a263e459d2475e11b36597117f0216970c2",
+  "sha256": "1cd9ec72ab4c32a3ac09cb4d574d2ac7aae2320d9ef4bbd918daac3e7f39a3a0",
   "bin": [ "hello-cli" ]
 }
